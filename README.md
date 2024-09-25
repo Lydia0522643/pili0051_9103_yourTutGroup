@@ -4,7 +4,7 @@
 
 ##### The image I chose for my major assignment was ‘Wheels of fortune’. My Inspiration imaging technique inspiration is aboriginal dot paintings.
 
-![An image of dot painting](readmeImages/bae5f697b48edcb257dc961cf866f024.jpg)
+![An image of bae5f697b48edcb257dc961cf866f024](readmeImages/bae5f697b48edcb257dc961cf866f024.jpg)
 ![An image of dot painting](readmeImages/MICHELLEPOSSUMNUNGUARRAYI.jpg)
 ![An image of dot painting](readmeImages/MYCOUNTRY5.jpg)
 
