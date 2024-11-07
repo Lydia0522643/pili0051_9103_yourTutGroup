@@ -26,3 +26,8 @@
 
 ![An image of coding](readmeImages/SpiralClockDominik.png)
 [Link to an example code](https://openprocessing.org/sketch/2225865/#code)
+
+- Item 1 sdfghhhh
+- Item 2 
+  - Subitem 2.1 dfgbhbnhn
+  - Subitem 2.2 ffghfhfg
